@@ -1,0 +1,22 @@
+{
+  "total": 12,
+  "early_abandonment": 7,
+  "early_abandonment_pct": 58.3,
+  "between_31_and_365_days": 3,
+  "over_365_days": 2,
+  "corrected_activation_dates": 3,
+  "confidence": {
+    "ESTIMATED": 2,
+    "INFERRED": 3,
+    "MEASURED": 7
+  },
+  "segments": {
+    "FINANCED_DEVICE": 4,
+    "OTHER": 5,
+    "PORTABILITY": 3
+  },
+  "recharge_activity": {
+    "ACTIVE": 7,
+    "INACTIVE": 5
+  }
+}
