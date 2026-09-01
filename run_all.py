@@ -7,7 +7,12 @@ ROOT = Path(__file__).resolve().parent
 
 
 def main() -> None:
-    demos = ["range_audit", "provider_reconciliation", "portout_retention"]
+    demos = [
+        "range_audit",
+        "provider_reconciliation",
+        "portout_retention",
+        "recommendation_tracking",
+    ]
     for demo in demos:
         print(f"\n=== {demo} ===")
         subprocess.run([sys.executable, str(ROOT / demo / "run.py")], check=True)
@@ -15,4 +20,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

@@ -1,0 +1,4 @@
+platform,equipment,recommended,deliveries,matured_61,activated,not_activated,retained,terminal_losses,activation_rate,retention_rate
+PARTNER,GAMMA 3,True,2,1,1,0,1,0,1.0,1.0
+RETAIL,BETA 2,False,1,1,0,1,0,0,0.0,0.0
+WEB,ALPHA ONE,True,5,3,3,0,2,1,1.0,0.6667

@@ -1,0 +1,48 @@
+{
+  "recommendation_version": "demo-v1",
+  "previous_rows": 10,
+  "current_rows": 10,
+  "canonical_sims": 9,
+  "delta": {
+    "added": 3,
+    "removed": 3,
+    "unchanged": 7,
+    "ambiguous_keys": 1
+  },
+  "status_horizon": "2026-04-15",
+  "consumed": 8,
+  "remaining": 12,
+  "overage": 0,
+  "cycle_consumed": {
+    "1": 5,
+    "2": 1,
+    "3": 2
+  },
+  "outcomes": {
+    "activation_7": {
+      "matured": 8,
+      "activated": 4,
+      "rate": 0.5
+    },
+    "activation_14": {
+      "matured": 8,
+      "activated": 4,
+      "rate": 0.5
+    },
+    "activation_30": {
+      "matured": 8,
+      "activated": 6,
+      "rate": 0.75
+    },
+    "activation_61": {
+      "matured": 5,
+      "activated": 4,
+      "rate": 0.8
+    },
+    "retention_61": {
+      "matured": 5,
+      "retained": 3,
+      "rate": 0.6
+    }
+  }
+}
