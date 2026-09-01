@@ -1,0 +1,6 @@
+lead_id,source_field,fragment,suggested_field,confidence,reason
+RYV-004,notes,Prefers WhatsApp,contact_preference,0.88,destination already populated
+RYV-005,notes,Maybe interested in coaching or consulting; unsure,interest,0.55,multiple plausible destinations
+RYV-008,notes,Timeline: Q1 or Q2,timeline,0.96,destination already populated
+RYV-010,notes,Email preferred,contact_preference,0.88,destination already populated
+
