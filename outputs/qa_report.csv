@@ -1,0 +1,8 @@
+check,value,expected,status
+Row count reconciles,12,12,PASS
+Lead IDs unique,12,12,PASS
+No blank lead IDs,0,0,PASS
+Notes contain no line breaks,0,0,PASS
+High-confidence fragments mapped,6,>= 1,PASS
+Ambiguities isolated for review,4,>= 1,PASS
+
