@@ -1,0 +1,31 @@
+{
+  "start_iccid": "8901000000000001000",
+  "end_iccid": "8901000000000001019",
+  "start_consecutive": 1000,
+  "end_consecutive": 1019,
+  "expected_count": 20,
+  "observed_count": 17,
+  "has_gaps": true,
+  "gaps": [
+    {
+      "start": 1005,
+      "end": 1005,
+      "count": 1
+    },
+    {
+      "start": 1012,
+      "end": 1013,
+      "count": 2
+    }
+  ],
+  "duplicate_consecutives": [],
+  "status_counts": {
+    "AVAILABLE": 9,
+    "DELIVERED": 4,
+    "RESERVED": 4
+  },
+  "offer_counts": {
+    "100": 9,
+    "200": 8
+  }
+}
