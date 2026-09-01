@@ -1,0 +1,14 @@
+lead_id,full_name,email,phone,company,interest,budget,timeline,contact_preference,notes
+RYV-001,Ana Torres,ana.torres@example.test,+1-615-555-0101,Northstar Studio,Consulting,"$5,000-$10,000",Q4,Email,"Asked for a proposal\nDecision maker: Ana"
+RYV-002,Marcus Lee,marcus.lee@example.test,"Budget: $7,500",Blue Oak LLC,Coaching,,Within 30 days,,"Phone: +1-615-555-0102\nPreferred: email\nCall after 3pm"
+RYV-003,Priya Shah,priya.shah@example.test,+1-615-555-0103,Harbor Works,,,$Q1,Phone,"Interested in workshop\nBudget around $3,000\nNeeds team approval"
+RYV-004,Diego Ruiz,diego.ruiz@example.test,+1-615-555-0104,Maple & Finch,Consulting,"$10,000+",ASAP,Phone,"Prefers WhatsApp\nSpanish-speaking contact"
+RYV-005,Elena Rossi,elena.rossi@example.test,+1-615-555-0105,Vertex Lab,,,,,"Maybe interested in coaching or consulting; unsure\nReach out next quarter"
+RYV-006,Noah Williams,noah.williams@example.test,+1-615-555-0106,Clearwater Group,Workshop,"$1,000-$5,000",60-90 days,Email,
+RYV-007,Mei Chen,mei.chen@example.test,+1-615-555-0107,Juniper Health,Coaching,,Within 30 days,Email,"Budget TBD\nAssistant schedules meetings"
+RYV-008,Omar Haddad,omar.haddad@example.test,+1-615-555-0108,Summit Legal,Consulting,"$10,000+",Q4,Phone,"Timeline: Q1 or Q2\nSend case studies first"
+RYV-009,Sofia Martin,sofia.martin@example.test,+1-615-555-0109,Pioneer Media,Workshop,"$5,000-$10,000",ASAP,Email,"Do not call mornings\nReferral from partner"
+RYV-010,Liam Brown,liam.brown@example.test,+1-615-555-0110,Redwood Foods,Coaching,"$1,000-$5,000",Within 30 days,Phone,"Email preferred\nWants monthly option"
+RYV-011,Grace Kim,grace.kim@example.test,+1-615-555-0111,Aster Labs,Consulting,"$5,000-$10,000",Q4,Email,"Workshop for leadership team?\nConsulting also mentioned"
+RYV-012,Theo Baker,theo.baker@example.test,+1-615-555-0112,Evergreen Co,Workshop,"$1,000-$5,000",60-90 days,Email,"No additional details"
+
