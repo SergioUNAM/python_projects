@@ -1,0 +1,21 @@
+name: Inventory process demos
+
+on:
+  push:
+    branches:
+      - demo/inventario-sims-real-processes-20260901
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python run_all.py
+      - run: python -m unittest discover -s range_audit/tests -v
+      - run: python -m unittest discover -s provider_reconciliation/tests -v
+      - run: python -m unittest discover -s portout_retention/tests -v
+
