@@ -1,0 +1,4 @@
+msisdn,amount,internal_count,provider_count,excess,tx_ids,action,existing_group
+9900000001,100.0,2,1,1,TX-001;TX-002,ADD_TO_EXISTING,DG-12
+9900000005,50.0,2,1,1,TX-006;TX-007,CREATE_REVIEW_GROUP,
+
