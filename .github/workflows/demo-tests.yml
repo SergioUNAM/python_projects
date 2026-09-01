@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - job/upwork-spreadsheet-mapping-demo-2094678141518489692
+      - demo/upwork-spreadsheet-mapping-2094678141518489692
   pull_request:
 
 jobs:
