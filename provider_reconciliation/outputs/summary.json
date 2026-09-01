@@ -1,0 +1,8 @@
+{
+  "provider_keys": 5,
+  "internal_keys": 4,
+  "discrepancy_keys": 2,
+  "missing_keys": 2,
+  "missing_transactions": 2,
+  "missing_amount": 230.0
+}
